@@ -1,3 +1,5 @@
 # marlo
 
-— intelligent email for busy people.
+intelligent email for busy people.
+
+https://marlo.so/
